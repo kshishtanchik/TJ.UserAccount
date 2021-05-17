@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kshishtanchik\.nuget\packages\microsoft.net.test.sdk\16.7.1\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\kshishtanchik\.nuget\packages\microsoft.testplatform.testhost\16.7.1\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\kshishtanchik\.nuget\packages\microsoft.testplatform.testhost\16.7.1\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\kshishtanchik\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\kshishtanchik\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\kshishtanchik\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\kshishtanchik\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kshishtanchik\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_TJ.UserAccount.789849503.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kshishtanchik\source\repos\TJ.UserAccount" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TJ.UserAccount" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="AccountController.cs" t="Include" />
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TJ.UserAccount.Web.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="TJ.UserAccount.Web.csproj" t="IncludeRecursive" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="TJ.UserAccount.Contracts" t="IncludeRecursive">
+        <e p="AccountStatus.cs" t="Include" />
+        <e p="Bid.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TJ.UserAccount.Contracts.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Result.cs" t="Include" />
+        <e p="TJ.UserAccount.Contracts.csproj" t="IncludeRecursive" />
+        <e p="TransferBid.cs" t="Include" />
+      </e>
+      <e p="TJ.UserAccount.Dao" t="IncludeRecursive">
+        <e p="Abstractions" t="Include">
+          <e p="IAccountRepo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entry.cs" t="Include" />
+        <e p="Exceptions" t="Include">
+          <e p="AccountRepoException.cs" t="Include" />
+        </e>
+        <e p="Implementation" t="Include">
+          <e p="FakeAccountRepo.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="AccountStatus.cs" t="Include" />
+          <e p="Bid.cs" t="Include" />
+          <e p="TransferBid.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TJ.UserAccount.Dao.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TJ.UserAccount.Dao.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TJ.UserAccount.Integration" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entry.cs" t="Include" />
+        <e p="Exceptions" t="Include">
+          <e p="ExchangeRateException.cs" t="Include" />
+        </e>
+        <e p="ExchangeRateClient.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="ExchangeRate.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TJ.UserAccount.Integration.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TJ.UserAccount.Integration.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TJ.UserAccount.Services" t="IncludeRecursive">
+        <e p="Abstractions" t="Include">
+          <e p="IAccountService.cs" t="Include" />
+        </e>
+        <e p="AccountService.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Dto" t="Include">
+          <e p="AccountStatus.cs" t="Include" />
+          <e p="Bid.cs" t="Include" />
+          <e p="TransferBid.cs" t="Include" />
+        </e>
+        <e p="Entry.cs" t="Include" />
+        <e p="MappingProfiles" t="Include">
+          <e p="DaoMappingProfile.cs" t="Include" />
+          <e p="DtoMappingProfile.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TJ.UserAccount.Services.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TJ.UserAccount.Services.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TJ.UserAccount.sln" t="IncludeFlat" />
+      <e p="TJ.UserAccount.Tests" t="IncludeRecursive">
+        <e p="AccountControllerTest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TJ.UserAccount.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TJ.UserAccount.Tests.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
